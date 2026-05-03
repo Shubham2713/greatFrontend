@@ -1,3 +1,5 @@
+//https://www.greatfrontend.com/questions/user-interface/star-rating
+
 import { useState } from "react";
 
 export default function StarRating({
